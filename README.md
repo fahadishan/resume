@@ -8,7 +8,7 @@ https://raw.githubusercontent.com/fahadishan/resume/main/avatar.jpg
 
 ## view link
 
-https://fahadishan.github.io/resume/canva/resume-1.
+https://fahadishan.github.io/resume/canva/resume-1.pdf
 
 https://fahadishan.github.io/resume/canva/resume-2.pdf
 
