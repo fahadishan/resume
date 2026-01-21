@@ -1,0 +1,166 @@
+{
+  "basics": {
+    "name": "Tasnim Anisha",
+    "label": "Applied Mathematics Graduate",
+    "image": "https://raw.githubusercontent.com/fahadishan/resume/main/avatar.jpg",
+    "email": "tasnim6353@gmail.com",
+    "phone": "+8801703995029",
+    "summary": "Applied Mathematics graduate with research experience in statistical modeling, advanced data analysis, and quantitative problem-solving. Highly analytical with strong proficiency in developing and validating complex mathematical and machine learning models. Eager to apply analytical skills in data-driven environments such as banking and financial services.",
+    "location": {
+      "address": "Parnanduali Moddho Bepari Para, Holding No: 1117, Ward: 6",
+      "city": "Magura",
+      "countryCode": "BD"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "FahadJrdev",
+        "url": "https://github.com/fahadishan"
+      }
+    ]
+  },
+
+  "education": [
+    {
+      "institution": "University of Chittagong",
+      "studyType": "M.Sc.",
+      "area": "Applied Mathematics",
+      "startDate": "2021",
+      "endDate": "2022",
+      "score": "CGPA: 3.53/4.00"
+    },
+    {
+      "institution": "University of Chittagong",
+      "studyType": "B.Sc.",
+      "area": "Mathematics",
+      "startDate": "2018",
+      "endDate": "2021",
+      "score": "CGPA: 3.25/4.00"
+    },
+    {
+      "institution": "Cantonment Public School and College",
+      "studyType": "Higher Secondary Certificate",
+      "startDate": "2016",
+      "endDate": "2017",
+      "score": "CGPA: 5.00/5.00"
+    },
+    {
+      "institution": "Cantonment Public School and College",
+      "studyType": "Secondary School Certificate",
+      "endDate": "2015",
+      "score": "CGPA: 5.00/5.00"
+    }
+  ],
+
+  "work": [
+    {
+      "name": "Maple Bear Canadian School",
+      "location": "Dhaka, Bangladesh",
+      "position": "Teacher",
+      "startDate": "2025",
+      "summary": "Taught Mathematics and Physics across junior and senior levels under the Canadian curriculum. Developed strong communication, planning, and mentoring skills while supporting diverse student groups."
+    },
+    {
+      "name": "Private Tutoring",
+      "position": "Private Tutor",
+      "startDate": "2019",
+      "summary": "Provided individualized instruction in mathematics and science from secondary to college-prep level. Helped students achieve top results in SSC, HSC, and annual examinations through critical thinking and problem-solving strategies."
+    },
+    {
+      "name": "The Business Standard",
+      "location": "Dhaka, Bangladesh",
+      "position": "EDGE Associate",
+      "startDate": "2023",
+      "endDate": "2024",
+      "summary": "Served as a campus ambassador, promoting student engagement and outreach initiatives."
+    },
+    {
+      "name": "International Children's Film Festival",
+      "location": "Rangpur, Bangladesh",
+      "position": "Volunteer",
+      "startDate": "2016",
+      "endDate": "2017",
+      "summary": "Coordinated event logistics, school outreach, and media partnerships for educational film screenings."
+    },
+    {
+      "name": "Ki o Keno",
+      "location": "Chittagong, Bangladesh",
+      "position": "Editor",
+      "startDate": "2018",
+      "endDate": "2020",
+      "summary": "Edited and published a triannual magazine under Biggayan Charchya Kendra. Organized academic seminars in memory of Prof. Jamal Nazrul Islam."
+    }
+  ],
+
+  "skills": [
+    {
+      "name": "Analytical & Mathematical Skills",
+      "keywords": [
+        "Analytical Thinking",
+        "Problem Solving",
+        "Linear Regression",
+        "Decision Trees"
+      ]
+    },
+    {
+      "name": "Tools & Software",
+      "keywords": [
+        "Maple 18",
+        "MATLAB",
+        "Microsoft Office",
+        "Excel"
+      ]
+    },
+    {
+      "name": "Soft Skills",
+      "keywords": [
+        "Strong Communication",
+        "Leadership",
+        "Planning",
+        "Mentoring"
+      ]
+    }
+  ],
+
+  "publications": [
+    {
+      "name": "Estimating Soil Temperature at Various Depths in Bangladesh: A Comparative Analysis of Advanced Machine Learning Tree-Based Models",
+      "publisher": "Springer (ICNDA)",
+      "releaseDate": "2024",
+      "summary": "Published research comparing advanced machine learning tree-based models for soil temperature estimation in Bangladesh."
+    }
+  ],
+
+  "projects": [
+    {
+      "name": "Traveling Wave Solutions of (2+1)-Dimensional Generalized Coupled Zakharov–Kuznetsov Equation",
+      "description": "Master’s research project focused on analytical solutions of nonlinear partial differential equations.",
+      "endDate": "2022",
+      "entity": "University of Chittagong",
+      "type": "research"
+    }
+  ],
+
+  "interests": [
+    {
+      "name": "Creative & Extracurricular Activities",
+      "keywords": [
+        "Debating",
+        "Anchoring",
+        "Music",
+        "Crafting"
+      ]
+    }
+  ],
+
+  "references": [
+    {
+      "name": "Mr. A.S.M. Moinuddin",
+      "reference": "Professor, Department of Mathematics, University of Chittagong. Email: moin.math@cu.ac.bd"
+    },
+    {
+      "name": "Mr. Md. Farhad Uddin",
+      "reference": "Associate Professor, Department of Mathematics, University of Chittagong. Email: farhad.math@cu.ac.bd"
+    }
+  ]
+}

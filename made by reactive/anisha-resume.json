@@ -1,0 +1,399 @@
+{
+  "basics": {
+    "name": "Tasnim Anisha",
+    "headline": "Applied Mathematics Graduate | Data Analysis & Statistical Modeling",
+    "email": "tasnim6353@gmail.com",
+    "phone": "+8801703995029",
+    "location": "Magura-7600, Bangladesh",
+    "url": {
+      "label": "Email",
+      "href": "mailto:tasnim6353@gmail.com"
+    },
+    "customFields": [],
+    "picture": {
+      "url": "https://raw.githubusercontent.com/fahadishan/resume/main/avatar.jpg",
+      "size": 64,
+      "aspectRatio": 1,
+      "borderRadius": 0,
+      "effects": {
+        "hidden": false,
+        "border": false,
+        "grayscale": false
+      }
+    }
+  },
+  "metadata": {
+    "css": {
+      "value": "",
+      "visible": false
+    },
+    "page": {
+      "margin": 18,
+      "format": "a4",
+      "options": {
+        "breakLine": true,
+        "pageNumbers": true
+      }
+    },
+    "notes": "",
+    "theme": {
+      "background": "#ffffff",
+      "text": "#000000",
+      "primary": "#2563eb"
+    },
+    "layout": [
+      [
+        [
+          "profiles",
+          "summary",
+          "experience",
+          "education",
+          "projects",
+          "publications",
+          "volunteer",
+          "references"
+        ],
+        [
+          "skills",
+          "interests",
+          "languages",
+          "certifications"
+        ]
+      ]
+    ],
+    "template": "nosepass",
+    "typography": {
+      "font": {
+        "family": "IBM Plex Serif",
+        "subset": "latin",
+        "variants": ["regular", "italic", "600"],
+        "size": 14
+      },
+      "lineHeight": 1.5,
+      "hideIcons": false,
+      "underlineLinks": true
+    }
+  },
+  "sections": {
+    "summary": {
+      "name": "Summary",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "summary",
+      "content": "<p>Applied Mathematics graduate with a strong research background in statistical modeling, machine learning, and quantitative analysis. Demonstrates proven expertise in developing and validating complex mathematical models and conducting advanced data analysis. Highly analytical, detail-oriented, and eager to apply data-driven insights in banking, financial services, and analytical roles.</p>"
+    },
+    "education": {
+      "name": "Education",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "education",
+      "items": [
+        {
+          "id": "edu1",
+          "visible": true,
+          "institution": "University of Chittagong",
+          "studyType": "Master of Science",
+          "area": "Applied Mathematics",
+          "score": "3.53 / 4.00",
+          "date": "2021 - 2022",
+          "summary": "<p>Completed postgraduate studies with a focus on mathematical modeling, data analysis, and applied research.</p>",
+          "url": {
+            "label": "",
+            "href": "https://cu.ac.bd"
+          }
+        },
+        {
+          "id": "edu2",
+          "visible": true,
+          "institution": "University of Chittagong",
+          "studyType": "Bachelor of Science",
+          "area": "Mathematics",
+          "score": "3.25 / 4.00",
+          "date": "2018 - 2021",
+          "summary": "<p>Built a strong foundation in pure and applied mathematics, statistics, and analytical problem-solving.</p>",
+          "url": {
+            "label": "",
+            "href": "https://cu.ac.bd"
+          }
+        },
+        {
+          "id": "edu3",
+          "visible": true,
+          "institution": "Cantonment Public School and College",
+          "studyType": "Higher Secondary School Certificate",
+          "area": "Science",
+          "score": "5.00 / 5.00",
+          "date": "2016 - 2017",
+          "summary": "<p>Achieved excellent academic performance with a strong focus on mathematics and science.</p>",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "edu4",
+          "visible": true,
+          "institution": "Cantonment Public School and College",
+          "studyType": "Secondary School Certificate",
+          "area": "Science",
+          "score": "5.00 / 5.00",
+          "date": "2015",
+          "summary": "<p>Graduated with top academic results.</p>",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        }
+      ]
+    },
+    "experience": {
+      "name": "Experience",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "experience",
+      "items": [
+        {
+          "id": "exp1",
+          "visible": true,
+          "company": "Maple Bear Canadian School",
+          "position": "Teacher",
+          "location": "Dhaka, Bangladesh",
+          "date": "2025 - Present",
+          "summary": "<p>Taught Mathematics and Physics to junior and senior students under the Canadian curriculum. Developed strong communication, lesson planning, and mentoring skills while guiding diverse student groups.</p>",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "exp2",
+          "visible": true,
+          "company": "Private Tutoring",
+          "position": "Private Tutor",
+          "location": "Bangladesh",
+          "date": "2019 - Present",
+          "summary": "<p>Provided individualized instruction in mathematics and science for SSC, HSC, and college-prep students. Helped learners achieve top academic results through structured problem-solving strategies.</p>",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "exp3",
+          "visible": true,
+          "company": "The Business Standard",
+          "position": "EDGE Associate",
+          "location": "Dhaka, Bangladesh",
+          "date": "2023 - 2024",
+          "summary": "<p>Served as a campus ambassador, supporting outreach initiatives and student engagement programs.</p>",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "exp4",
+          "visible": true,
+          "company": "Ki o Keno",
+          "position": "Editor",
+          "location": "Chittagong, Bangladesh",
+          "date": "2018 - 2020",
+          "summary": "<p>Edited and published a triannual magazine under Biggayan Charchya Kendra. Organized academic seminars in memory of Prof. Jamal Nazrul Islam.</p>",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        }
+      ]
+    },
+  
+    "profiles": {
+      "name": "Profiles",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": false,
+      "id": "profiles",
+      "items": []
+    },
+    "awards": {
+      "name": "Awards",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": false,
+      "id": "awards",
+      "items": []
+    },
+    "certifications": {
+      "name": "Certifications",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": false,
+      "id": "certifications",
+      "items": []
+    },
+    "custom": {},
+
+    "volunteer": {
+      "name": "Volunteering",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "volunteer",
+      "items": [
+        {
+          "id": "vol1",
+          "visible": true,
+          "organization": "International Children's Film Festival",
+          "position": "Volunteer",
+          "location": "Rangpur, Bangladesh",
+          "date": "2016 - 2017",
+          "summary": "<p>Coordinated event logistics, school outreach, and media partnerships for educational film screenings.</p>",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        }
+      ]
+    },
+    "publications": {
+      "name": "Publications",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "publications",
+      "items": [
+        {
+          "id": "pub1",
+          "visible": true,
+          "name": "Estimating Soil Temperature at Various Depths in Bangladesh",
+          "publisher": "Springer",
+          "date": "2024",
+          "summary": "<p>Anisha, T. et al. Comparative analysis of advanced machine learning tree-based models. Proceedings of the 2nd International Conference on Nonlinear Dynamics and Applications (ICNDA), Vol. 3, pp. 543–557.</p>",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        }
+      ]
+    },
+    "projects": {
+      "name": "Research Projects",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "projects",
+      "items": [
+        {
+          "id": "proj1",
+          "visible": true,
+          "name": "Master’s Project",
+          "description": "Traveling Wave Solutions of (2+1)-Dimensional Generalized Coupled Zakharov–Kuznetsov Equation",
+          "date": "2022",
+          "summary": "<p>Conducted analytical and mathematical modeling research as part of postgraduate studies at the University of Chittagong.</p>",
+          "keywords": ["Applied Mathematics", "Differential Equations"],
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        }
+      ]
+    },
+    "skills": {
+      "name": "Skills",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "skills",
+      "items": [
+        {
+          "id": "skill1",
+          "visible": true,
+          "name": "Analytical & Technical Skills",
+          "description": "Strong quantitative and analytical skill set",
+          "level": 4,
+          "keywords": [
+            "Analytical Thinking",
+            "Problem Solving",
+            "Linear Regression",
+            "Decision Trees",
+            "MATLAB",
+            "Maple 18",
+            "Microsoft Excel"
+          ]
+        }
+      ]
+    },
+    "interests": {
+      "name": "Interests",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "interests",
+      "items": [
+        {
+          "id": "int1",
+          "visible": true,
+          "name": "Creative & Extracurricular",
+          "keywords": ["Debating", "Anchoring", "Music", "Crafting"]
+        }
+      ]
+    },
+    "languages": {
+      "name": "Languages",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "languages",
+      "items": [
+        {
+          "id": "lang1",
+          "visible": true,
+          "name": "English",
+          "description": "Professional proficiency",
+          "level": 4
+        },
+        {
+          "id": "lang2",
+          "visible": true,
+          "name": "Bangla",
+          "description": "Native",
+          "level": 5
+        }
+      ]
+    },
+    "references": {
+      "name": "References",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "references",
+      "items": [
+        {
+          "id": "ref1",
+          "visible": true,
+          "name": "Mr. A.S.M. Moinuddin",
+          "description": "Professor, Department of Mathematics, University of Chittagong",
+          "summary": "<p>Email: moin.math@cu.ac.bd</p>",
+          "url": {
+            "label": "",
+            "href": "mailto:moin.math@cu.ac.bd"
+          }
+        },
+        {
+          "id": "ref2",
+          "visible": true,
+          "name": "Mr. Md. Farhad Uddin",
+          "description": "Associate Professor, Department of Mathematics, University of Chittagong",
+          "summary": "<p>Email: farhad.math@cu.ac.bd</p>",
+          "url": {
+            "label": "",
+            "href": "mailto:farhad.math@cu.ac.bd"
+          }
+        }
+      ]
+    }
+  }
+}
