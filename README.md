@@ -6,12 +6,18 @@ https://raw.githubusercontent.com/fahadishan/resume/main/avatar.jpg
 
 # canva resume
 
+## view link
+
+https://fahadishan.github.io/resume/canva/resume-1.pdf
+https://fahadishan.github.io/resume/canva/resume-2.pdf
+https://fahadishan.github.io/resume/canva/resume-3.pdf
+https://fahadishan.github.io/resume/canva/resume-4.pdf
+
+## download link
+
 https://raw.githubusercontent.com/fahadishan/resume/main/canva/resume-1.pdf
-
 https://raw.githubusercontent.com/fahadishan/resume/main/canva/resume-2.pdf
-
 https://raw.githubusercontent.com/fahadishan/resume/main/canva/resume-3.pdf
-
 https://raw.githubusercontent.com/fahadishan/resume/main/canva/resume-4.pdf
 
 # reactive resume
