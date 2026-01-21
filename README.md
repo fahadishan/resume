@@ -1,5 +1,7 @@
 # resume
 
+https://fahadishan.github.io/resume
+
 # profile
 
 https://raw.githubusercontent.com/fahadishan/resume/main/avatar.jpg
