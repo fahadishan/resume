@@ -1,14 +1,22 @@
 # resume
 
-# Profile
+# profile
 
 https://raw.githubusercontent.com/fahadishan/resume/main/avatar.jpg
 
+# canva resume
+
+COMING SOON
+
 # reactive resume
+
+https://raw.githubusercontent.com/fahadishan/resume/main/reactive/resume.json
 
 https://v4.rxresu.me
 
 # json resume
+
+https://raw.githubusercontent.com/fahadishan/resume/main/json-resume/resume.json
 
 https://jsonresume.org/themes
 
