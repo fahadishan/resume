@@ -1,5 +1,9 @@
 # resume
 
+# Profile
+
+https://raw.githubusercontent.com/fahadishan/resume/main/avatar.jpg
+
 # reactive resume
 
 https://v4.rxresu.me
