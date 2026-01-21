@@ -6,7 +6,13 @@ https://raw.githubusercontent.com/fahadishan/resume/main/avatar.jpg
 
 # canva resume
 
-COMING SOON
+https://raw.githubusercontent.com/fahadishan/resume/main/canva/resume-1.pdf
+
+https://raw.githubusercontent.com/fahadishan/resume/main/canva/resume-2.pdf
+
+https://raw.githubusercontent.com/fahadishan/resume/main/canva/resume-3.pdf
+
+https://raw.githubusercontent.com/fahadishan/resume/main/canva/resume-4.pdf
 
 # reactive resume
 
